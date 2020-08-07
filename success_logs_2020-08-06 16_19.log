@@ -1,0 +1,353 @@
+2020-08-06 16:19:59,028 INFO File read Successfully
+2020-08-06 16:20:01,028 INFO http://feeds.feedburner.com/TechCrunch/ ----> Started
+2020-08-06 16:20:01,386 INFO http://feeds.feedburner.com/TechCrunch/ ----> Completed (Found 20 news)
+2020-08-06 16:20:03,402 INFO http://feeds.feedburner.com/rcrwireless/sLmV ----> Started
+2020-08-06 16:20:03,605 INFO http://feeds.feedburner.com/rcrwireless/sLmV ----> Completed (Found 10 news)
+2020-08-06 16:20:05,613 INFO https://feeds.feedburner.com/tarss ----> Started
+2020-08-06 16:20:06,330 INFO https://feeds.feedburner.com/tarss ----> Completed (Found 100 news)
+2020-08-06 16:20:08,345 INFO http://feeds.feedburner.com/TelecompaperMobileWireless ----> Started
+2020-08-06 16:20:08,673 INFO http://feeds.feedburner.com/TelecompaperMobileWireless ----> Completed (Found 20 news)
+2020-08-06 16:20:10,679 INFO http://feeds.feedburner.com//kco/LvLF ----> Started
+2020-08-06 16:20:11,460 INFO http://feeds.feedburner.com//kco/LvLF ----> Completed (Found 20 news)
+2020-08-06 16:20:13,460 INFO http://feeds.feedburner.com/venturebeat/SZYF ----> Started
+2020-08-06 16:20:13,678 INFO http://feeds.feedburner.com/venturebeat/SZYF ----> Completed (Found 28 news)
+2020-08-06 16:20:15,693 INFO http://feeds.feedburner.com/TechCrunch/Apple ----> Started
+2020-08-06 16:20:16,693 INFO http://feeds.feedburner.com/TechCrunch/Apple ----> Completed (Found 20 news)
+2020-08-06 16:20:18,693 INFO http://feeds.feedburner.com/TechCrunch/Samsung ----> Started
+2020-08-06 16:20:19,598 INFO http://feeds.feedburner.com/TechCrunch/Samsung ----> Completed (Found 20 news)
+2020-08-06 16:20:21,613 INFO http://feeds.feedburner.com/cxotoday ----> Started
+2020-08-06 16:20:22,004 INFO http://feeds.feedburner.com/cxotoday ----> Completed (Found 30 news)
+2020-08-06 16:20:24,019 INFO http://feeds.feedburner.com/iot ----> Started
+2020-08-06 16:20:24,191 INFO http://feeds.feedburner.com/iot ----> Completed (Found 10 news)
+2020-08-06 16:20:26,201 INFO http://www.computerworld.com/category/big-data/index.rss ----> Started
+2020-08-06 16:20:26,810 INFO http://www.computerworld.com/category/big-data/index.rss ----> Completed (Found 3 news)
+2020-08-06 16:20:28,826 INFO https://datacenternews.asia/feed ----> Started
+2020-08-06 16:20:29,809 INFO https://datacenternews.asia/feed ----> Completed (Found 10 news)
+2020-08-06 16:20:31,809 INFO http://www.computerworld.com/category/cloud-computing/index.rss ----> Started
+2020-08-06 16:20:32,637 INFO http://www.computerworld.com/category/cloud-computing/index.rss ----> Completed (Found 20 news)
+2020-08-06 16:20:34,652 INFO http://www.computerworld.com/category/emerging-technology/index.rss ----> Started
+2020-08-06 16:20:35,433 INFO http://www.computerworld.com/category/emerging-technology/index.rss ----> Completed (Found 20 news)
+2020-08-06 16:20:37,448 INFO http://www.computerworld.com/category/security/index.rss ----> Started
+2020-08-06 16:20:38,307 INFO http://www.computerworld.com/category/security/index.rss ----> Completed (Found 34 news)
+2020-08-06 16:20:40,307 INFO http://www.computerworld.com/category/networking/index.rss ----> Started
+2020-08-06 16:20:41,165 INFO http://www.computerworld.com/category/networking/index.rss ----> Completed (Found 31 news)
+2020-08-06 16:20:43,181 INFO http://www.computerworld.com/category/mobile-wireless/index.rss ----> Started
+2020-08-06 16:20:45,758 INFO http://www.computerworld.com/category/data-center/index.rss ----> Started
+2020-08-06 16:20:46,523 INFO http://www.computerworld.com/category/data-center/index.rss ----> Completed (Found 20 news)
+2020-08-06 16:20:48,539 INFO http://www.voicendata.com/rss2-2/?cat_slug=tech-news ----> Started
+2020-08-06 16:20:48,945 INFO http://www.voicendata.com/rss2-2/?cat_slug=tech-news ----> No news available
+2020-08-06 16:20:50,960 INFO http://www.voicendata.com/rss2-2/?cat_slug=networking ----> Started
+2020-08-06 16:20:51,366 INFO http://www.voicendata.com/rss2-2/?cat_slug=networking ----> No news available
+2020-08-06 16:20:53,371 INFO http://www.voicendata.com/rss2-2/?cat_slug=ioe ----> Started
+2020-08-06 16:20:53,761 INFO http://www.voicendata.com/rss2-2/?cat_slug=ioe ----> No news available
+2020-08-06 16:20:55,776 INFO http://www.voicendata.com/rss2-2/?cat_slug=broadband ----> Started
+2020-08-06 16:20:56,167 INFO http://www.voicendata.com/rss2-2/?cat_slug=broadband ----> No news available
+2020-08-06 16:20:58,180 INFO https://www.realwire.com/rss/?id=28 ----> Started
+2020-08-06 16:20:59,117 INFO https://www.realwire.com/rss/?id=28 ----> Completed (Found 15 news)
+2020-08-06 16:21:01,132 INFO https://www.realwire.com/rss/?id=470 ----> Started
+2020-08-06 16:21:02,038 INFO https://www.realwire.com/rss/?id=470 ----> Completed (Found 15 news)
+2020-08-06 16:21:04,054 INFO https://www.realwire.com/rss/?id=471 ----> Started
+2020-08-06 16:21:04,959 INFO https://www.realwire.com/rss/?id=471 ----> Completed (Found 15 news)
+2020-08-06 16:21:06,975 INFO https://www.realwire.com/rss/?id=643 ----> Started
+2020-08-06 16:21:07,850 INFO https://www.realwire.com/rss/?id=643 ----> Completed (Found 15 news)
+2020-08-06 16:21:09,865 INFO https://www.realwire.com/rss/?id=131 ----> Started
+2020-08-06 16:21:10,802 INFO https://www.realwire.com/rss/?id=131 ----> Completed (Found 15 news)
+2020-08-06 16:21:12,817 INFO https://www.realwire.com/rss/?id=147 ----> Started
+2020-08-06 16:21:13,723 INFO https://www.realwire.com/rss/?id=147 ----> Completed (Found 15 news)
+2020-08-06 16:21:15,738 INFO https://www.realwire.com/rss/?id=115 ----> Started
+2020-08-06 16:21:16,660 INFO https://www.realwire.com/rss/?id=115 ----> Completed (Found 15 news)
+2020-08-06 16:21:18,675 INFO https://www.realwire.com/rss/?id=18 ----> Started
+2020-08-06 16:21:19,550 INFO https://www.realwire.com/rss/?id=18 ----> Completed (Found 15 news)
+2020-08-06 16:21:21,565 INFO https://www.realwire.com/rss/?id=71 ----> Started
+2020-08-06 16:21:22,455 INFO https://www.realwire.com/rss/?id=71 ----> Completed (Found 15 news)
+2020-08-06 16:21:24,471 INFO https://www.realwire.com/rss/?id=717 ----> Started
+2020-08-06 16:21:25,376 INFO https://www.realwire.com/rss/?id=717 ----> Completed (Found 15 news)
+2020-08-06 16:21:27,392 INFO https://www.realwire.com/rss/?id=619 ----> Started
+2020-08-06 16:21:28,297 INFO https://www.realwire.com/rss/?id=619 ----> Completed (Found 15 news)
+2020-08-06 16:21:30,304 INFO https://www.realwire.com/rss/?id=588 ----> Started
+2020-08-06 16:21:31,257 INFO https://www.realwire.com/rss/?id=588 ----> Completed (Found 15 news)
+2020-08-06 16:21:33,272 INFO https://www.realwire.com/rss/?id=668 ----> Started
+2020-08-06 16:21:34,193 INFO https://www.realwire.com/rss/?id=668 ----> Completed (Found 15 news)
+2020-08-06 16:21:36,209 INFO https://www.realwire.com/rss/?id=56 ----> Started
+2020-08-06 16:21:37,098 INFO https://www.realwire.com/rss/?id=56 ----> Completed (Found 15 news)
+2020-08-06 16:21:39,099 INFO https://www.realwire.com/rss/?id=65 ----> Started
+2020-08-06 16:21:40,004 INFO https://www.realwire.com/rss/?id=65 ----> Completed (Found 15 news)
+2020-08-06 16:21:42,019 INFO https://www.realwire.com/rss/?id=73 ----> Started
+2020-08-06 16:21:42,910 INFO https://www.realwire.com/rss/?id=73 ----> Completed (Found 15 news)
+2020-08-06 16:21:44,925 INFO http://www.prnewswire.com/rss/business-technology/all-business-technology-news.rss ----> Started
+2020-08-06 16:21:47,368 INFO http://www.prnewswire.com/rss/business-technology/all-business-technology-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:21:49,384 INFO http://www.prnewswire.com/rss/business-technology/computer-electronics-news.rss ----> Started
+2020-08-06 16:21:51,508 INFO http://www.prnewswire.com/rss/business-technology/computer-electronics-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:21:53,523 INFO http://www.prnewswire.com/rss/business-technology/computer-hardware-news.rss ----> Started
+2020-08-06 16:21:56,632 INFO http://www.prnewswire.com/rss/business-technology/computer-hardware-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:21:58,647 INFO http://www.prnewswire.com/rss/business-technology/computer-software-news.rss ----> Started
+2020-08-06 16:22:01,349 INFO http://www.prnewswire.com/rss/business-technology/computer-software-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:03,363 INFO http://www.prnewswire.com/rss/business-technology/electronic-commerce-news.rss ----> Started
+2020-08-06 16:22:05,659 INFO http://www.prnewswire.com/rss/business-technology/electronic-commerce-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:07,675 INFO http://www.prnewswire.com/rss/business-technology/electronic-components-news.rss ----> Started
+2020-08-06 16:22:10,408 INFO http://www.prnewswire.com/rss/business-technology/electronic-components-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:12,424 INFO http://www.prnewswire.com/rss/business-technology/electronic-design-automation-news.rss ----> Started
+2020-08-06 16:22:14,969 INFO http://www.prnewswire.com/rss/business-technology/electronic-design-automation-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:16,985 INFO http://www.prnewswire.com/rss/business-technology/high-tech-security.rss ----> Started
+2020-08-06 16:22:20,187 INFO http://www.prnewswire.com/rss/business-technology/high-tech-security.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:22,203 INFO http://www.prnewswire.com/rss/business-technology/internet-technology-news.rss ----> Started
+2020-08-06 16:22:24,920 INFO http://www.prnewswire.com/rss/business-technology/internet-technology-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:26,936 INFO http://www.prnewswire.com/rss/business-technology/peripherals-news.rss ----> Started
+2020-08-06 16:22:29,138 INFO http://www.prnewswire.com/rss/business-technology/peripherals-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:31,154 INFO http://www.prnewswire.com/rss/usa/all-usa-news.rss ----> Started
+2020-08-06 16:22:33,590 INFO http://www.prnewswire.com/rss/usa/all-usa-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:35,592 INFO http://www.prnewswire.com/rss/business-technology/semantic-web-news.rss ----> Started
+2020-08-06 16:22:38,060 INFO http://www.prnewswire.com/rss/business-technology/semantic-web-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:40,075 INFO http://www.prnewswire.com/rss/business-technology/nanotechnology-news.rss ----> Started
+2020-08-06 16:22:42,512 INFO http://www.prnewswire.com/rss/business-technology/nanotechnology-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:44,512 INFO http://www.prnewswire.com/rss/news-for-investors-from-PR-Newswire-news.rss ----> Started
+2020-08-06 16:22:46,714 INFO http://www.prnewswire.com/rss/news-for-investors-from-PR-Newswire-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:48,730 INFO http://www.prnewswire.com/rss/telecommunications/all-telecommunications-news.rss ----> Started
+2020-08-06 16:22:50,869 INFO http://www.prnewswire.com/rss/telecommunications/all-telecommunications-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:52,885 INFO http://www.prnewswire.com/rss/automotive-transportation/all-automotive-transportation-news.rss ----> Started
+2020-08-06 16:22:55,072 INFO http://www.prnewswire.com/rss/automotive-transportation/all-automotive-transportation-news.rss ----> Completed (Found 20 news)
+2020-08-06 16:22:57,087 INFO http://www.edn.com/rss/design/systems-design ----> Started
+2020-08-06 16:23:49,125 INFO http://www.edn.com/rss/design/sensors ----> Started
+2020-08-06 16:24:41,156 INFO http://www.edn.com/rss/design/automotive ----> Started
+2020-08-06 16:25:33,174 INFO http://www.edn.com/rss/design/analog ----> Started
+2020-08-06 16:26:25,214 INFO http://www.edn.com/rss/design/5G ----> Started
+2020-08-06 16:27:17,254 INFO http://www.crn.com/rss/data-center/crn-feed.rss ----> Started
+2020-08-06 16:27:20,831 INFO http://www.crn.com/rss/virtualization/crn-feed.rss ----> Started
+2020-08-06 16:27:24,142 INFO http://www.crn.com/rss/security/crn-feed.rss ----> Started
+2020-08-06 16:27:27,532 INFO http://www.crn.com/rss/networking/crn-feed.rss ----> Started
+2020-08-06 16:27:31,063 INFO http://www.crn.com/rss/cloud/crn-feed.rss ----> Started
+2020-08-06 16:27:34,421 INFO http://www.crn.com/rss/apple/crn-company.rss ----> Started
+2020-08-06 16:27:37,702 INFO http://www.crn.com/rss/cisco/crn-company.rss ----> Started
+2020-08-06 16:27:41,107 INFO http://www.crn.com/rss/dell/crn-company.rss ----> Started
+2020-08-06 16:27:44,559 INFO http://www.crn.com/rss/google/crn-company.rss ----> Started
+2020-08-06 16:27:48,028 INFO http://www.crn.com/rss/hewlett-packard/crn-company.rss ----> Started
+2020-08-06 16:27:52,089 INFO http://www.crn.com/rss/samsung/crn-company.rss ----> Started
+2020-08-06 16:27:55,370 INFO http://www.crn.com/rss/oracle/crn-company.rss ----> Started
+2020-08-06 16:27:58,838 INFO http://feeds.venturebeat.com/VentureBeat ----> Started
+2020-08-06 16:28:00,868 INFO http://www.forbes.com/technology/index.xml ----> Started
+2020-08-06 16:28:01,586 INFO http://www.forbes.com/technology/index.xml ----> No news available
+2020-08-06 16:28:03,602 INFO http://www.zdnet.com/news/rss.xml ----> Started
+2020-08-06 16:28:04,664 INFO http://www.zdnet.com/news/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:28:06,664 INFO http://thenextweb.com/feed ----> Started
+2020-08-06 16:28:08,116 INFO http://thenextweb.com/feed ----> Completed (Found 10 news)
+2020-08-06 16:28:10,116 INFO http://feeds.wired.com/wired/index ----> Started
+2020-08-06 16:28:10,866 INFO http://feeds.wired.com/wired/index ----> Completed (Found 20 news)
+2020-08-06 16:28:12,881 INFO http://www.fastcompany.com/rss.xml ----> Started
+2020-08-06 16:28:14,333 INFO http://www.fastcompany.com/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:28:16,349 INFO http://www.theverge.com/rss/frontpage ----> Started
+2020-08-06 16:28:16,614 INFO http://www.theverge.com/rss/frontpage ----> Completed (Found 10 news)
+2020-08-06 16:28:18,614 INFO http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml ----> Started
+2020-08-06 16:28:19,223 INFO http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml ----> Completed (Found 22 news)
+2020-08-06 16:28:21,238 INFO http://engadget.com/rss-full.xml ----> Started
+2020-08-06 16:28:23,175 INFO http://engadget.com/rss-full.xml ----> Completed (Found 25 news)
+2020-08-06 16:28:25,191 INFO http://recode.net/feed/ ----> Started
+2020-08-06 16:28:28,081 INFO http://www.businessinsider.in/rss_section_feeds/21807543.cms ----> Started
+2020-08-06 16:28:28,190 INFO http://www.businessinsider.in/rss_section_feeds/21807543.cms ----> No news available
+2020-08-06 16:28:30,205 INFO http://www.npr.org/rss/rss.php?id=1019 ----> Started
+2020-08-06 16:28:30,877 INFO http://www.npr.org/rss/rss.php?id=1019 ----> Completed (Found 15 news)
+2020-08-06 16:28:32,884 INFO http://www.lightreading.com/rss_simple.asp ----> Started
+2020-08-06 16:28:34,114 INFO http://www.lightreading.com/rss_simple.asp ----> Completed (Found 20 news)
+2020-08-06 16:28:36,117 INFO http://www.fiercetelecom.com/rss/xml ----> Started
+2020-08-06 16:28:36,367 INFO http://www.fiercetelecom.com/rss/xml ----> Completed (Found 25 news)
+2020-08-06 16:28:38,383 INFO https://www.geekwire.com/feed/ ----> Started
+2020-08-06 16:28:40,991 INFO https://www.geekwire.com/feed/ ----> Completed (Found 35 news)
+2020-08-06 16:28:43,003 INFO https://www.geekwire.com/mobile-news/feed/ ----> Started
+2020-08-06 16:28:45,221 INFO https://www.geekwire.com/mobile-news/feed/ ----> Completed (Found 35 news)
+2020-08-06 16:28:47,237 INFO http://www.zdnet.com/blog/cell-phones/rss.xml ----> Started
+2020-08-06 16:28:48,422 INFO http://www.zdnet.com/blog/cell-phones/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:28:50,423 INFO http://www.zdnet.com/blog/mobile-gadgeteer/rss.xml ----> Started
+2020-08-06 16:28:51,576 INFO http://www.zdnet.com/blog/mobile-gadgeteer/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:28:53,576 INFO http://www.zdnet.com/topic/mobility/rss.xml ----> Started
+2020-08-06 16:28:55,533 INFO http://www.zdnet.com/topic/mobility/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:28:57,539 INFO http://www.zdnet.com/topic/mobile-os/rss.xml ----> Started
+2020-08-06 16:28:58,583 INFO http://www.zdnet.com/topic/mobile-os/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:29:00,583 INFO http://www.zdnet.com/blog/mobile-news/rss.xml ----> Started
+2020-08-06 16:29:01,741 INFO http://www.zdnet.com/blog/mobile-news/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:29:03,756 INFO http://www.thehindubusinessline.com/companies/?service=rss ----> Started
+2020-08-06 16:29:04,104 INFO http://www.thehindubusinessline.com/companies/?service=rss ----> Completed (Found 100 news)
+2020-08-06 16:29:06,120 INFO https://globenewswire.com/OrganizationRss/lOk1J5x-uFZ6eRkooJgfVA%3d%3d ----> Started
+2020-08-06 16:29:09,290 INFO https://globenewswire.com/OrganizationRss/lOk1J5x-uFZ6eRkooJgfVA%3d%3d ----> Completed (Found 20 news)
+2020-08-06 16:29:11,306 INFO https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=35 ----> Started
+2020-08-06 16:29:13,696 INFO https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=35 ----> Completed (Found 20 news)
+2020-08-06 16:29:15,711 INFO https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=36 ----> Started
+2020-08-06 16:29:17,757 INFO https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=36 ----> Completed (Found 20 news)
+2020-08-06 16:29:19,773 INFO https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=33 ----> Started
+2020-08-06 16:29:21,772 INFO https://www.itnews.com.au/RSS/rss.ashx?type=Category&ID=33 ----> Completed (Found 20 news)
+2020-08-06 16:29:23,788 INFO https://www.iothub.com.au/rss.ashx ----> Started
+2020-08-06 16:29:25,896 INFO https://www.iothub.com.au/rss.ashx ----> Completed (Found 10 news)
+2020-08-06 16:29:27,912 INFO http://www.hellenicshippingnews.com/tag/top-stories/feed/ ----> Started
+2020-08-06 16:29:29,943 INFO http://www.hellenicshippingnews.com/tag/top-stories/feed/ ----> Completed (Found 20 news)
+2020-08-06 16:29:31,958 INFO http://www.emsnow.com/npps/news-rss.cfm?sec=4 ----> Started
+2020-08-06 16:29:36,348 INFO http://www.eenewseurope.com/rss.xml ----> Started
+2020-08-06 16:29:37,836 INFO http://www.eenewseurope.com/rss.xml ----> Completed (Found 10 news)
+2020-08-06 16:29:39,852 INFO http://www.ereleases.com/pr-fuel/feed/atom/ ----> Started
+2020-08-06 16:29:41,914 INFO http://www.ereleases.com/pr-fuel/feed/atom/ ----> Completed (Found 10 news)
+2020-08-06 16:29:43,929 INFO http://rss.24-7pressrelease.com/rss/technology_telecommunications.xml ----> Started
+2020-08-06 16:29:45,132 INFO http://rss.24-7pressrelease.com/rss/technology_telecommunications.xml ----> Completed (Found 60 news)
+2020-08-06 16:29:47,141 INFO https://www.prlog.org/news/rss.xml ----> Started
+2020-08-06 16:29:48,125 INFO https://www.prlog.org/news/rss.xml ----> Completed (Found 10 news)
+2020-08-06 16:29:50,140 INFO http://www.prweb.com/rss2/techtelecom.xml ----> Started
+2020-08-06 16:29:51,218 INFO http://www.prweb.com/rss2/techtelecom.xml ----> Completed (Found 50 news)
+2020-08-06 16:29:53,233 INFO https://www.realwire.com/rss/feeds.asp?cat=Telecom ----> Started
+2020-08-06 16:29:54,251 INFO https://www.realwire.com/rss/feeds.asp?cat=Telecom ----> No news available
+2020-08-06 16:29:56,267 INFO http://www.livemint.com/rss/companies ----> Started
+2020-08-06 16:29:56,391 INFO http://www.livemint.com/rss/companies ----> Completed (Found 25 news)
+2020-08-06 16:29:58,391 INFO http://cio.economictimes.indiatimes.com/rss/digital-security ----> Started
+2020-08-06 16:29:58,484 INFO http://cio.economictimes.indiatimes.com/rss/digital-security ----> Completed (Found 20 news)
+2020-08-06 16:30:00,500 INFO http://cio.economictimes.indiatimes.com/rss/internet-of-things ----> Started
+2020-08-06 16:30:00,671 INFO http://cio.economictimes.indiatimes.com/rss/internet-of-things ----> Completed (Found 20 news)
+2020-08-06 16:30:02,673 INFO http://cio.economictimes.indiatimes.com/rss/cloud-computing ----> Started
+2020-08-06 16:30:02,797 INFO http://cio.economictimes.indiatimes.com/rss/cloud-computing ----> Completed (Found 20 news)
+2020-08-06 16:30:04,797 INFO http://cio.economictimes.indiatimes.com/rss/internet ----> Started
+2020-08-06 16:30:04,985 INFO http://cio.economictimes.indiatimes.com/rss/internet ----> Completed (Found 20 news)
+2020-08-06 16:30:07,000 INFO http://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms ----> Started
+2020-08-06 16:30:07,187 INFO http://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:09,203 INFO http://economictimes.indiatimes.com/industry/auto/rssfeeds/13359412.cms ----> Started
+2020-08-06 16:30:09,327 INFO http://economictimes.indiatimes.com/industry/auto/rssfeeds/13359412.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:11,343 INFO http://economictimes.indiatimes.com/industry/telecom/rssfeeds/13354103.cms ----> Started
+2020-08-06 16:30:11,436 INFO http://economictimes.indiatimes.com/industry/telecom/rssfeeds/13354103.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:13,436 INFO http://economictimes.indiatimes.com/tech/hardware/rssfeeds/13357565.cms ----> Started
+2020-08-06 16:30:13,529 INFO http://economictimes.indiatimes.com/tech/hardware/rssfeeds/13357565.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:15,545 INFO http://economictimes.indiatimes.com/tech/software/rssfeeds/13357555.cms ----> Started
+2020-08-06 16:30:15,732 INFO http://economictimes.indiatimes.com/tech/software/rssfeeds/13357555.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:17,747 INFO http://economictimes.indiatimes.com/tech/ites/rssfeeds/40274504.cms ----> Started
+2020-08-06 16:30:17,856 INFO http://economictimes.indiatimes.com/tech/ites/rssfeeds/40274504.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:19,872 INFO http://www.lifehacker.co.in/rss_section_feeds/2147477990.cms ----> Started
+2020-08-06 16:30:22,152 INFO http://www.lifehacker.co.in/rss_section_feeds/2147477990.cms ----> No news available
+2020-08-06 16:30:24,153 INFO http://www.investopedia.com/feedbuilder/feed/getFeed?feedName=rss_headline ----> Started
+2020-08-06 16:30:25,621 INFO http://www.investopedia.com/feedbuilder/feed/getFeed?feedName=rss_headline ----> Completed (Found 150 news)
+2020-08-06 16:30:27,636 INFO http://www.gadgetsnow.com/rssfeeds/2147478039.cms ----> Started
+2020-08-06 16:30:27,824 INFO http://www.gadgetsnow.com/rssfeeds/2147478039.cms ----> Completed (Found 20 news)
+2020-08-06 16:30:29,839 INFO http://www.business-standard.com/rss/technology-108.rss ----> Started
+2020-08-06 16:30:29,995 INFO http://www.business-standard.com/rss/technology-108.rss ----> Completed (Found 35 news)
+2020-08-06 16:30:32,010 INFO http://www.business-standard.com/rss/companies-101.rss ----> Started
+2020-08-06 16:30:32,166 INFO http://www.business-standard.com/rss/companies-101.rss ----> Completed (Found 35 news)
+2020-08-06 16:30:34,179 INFO http://www.business-standard.com/rss/home_page_top_stories.rss ----> Started
+2020-08-06 16:30:34,397 INFO http://www.business-standard.com/rss/home_page_top_stories.rss ----> Completed (Found 32 news)
+2020-08-06 16:30:36,400 INFO http://www.business-standard.com/rss/markets-106.rss ----> Started
+2020-08-06 16:30:36,525 INFO http://www.business-standard.com/rss/markets-106.rss ----> Completed (Found 35 news)
+2020-08-06 16:30:38,525 INFO http://www.business-standard.com/rss/economy-policy-102.rss ----> Started
+2020-08-06 16:30:38,665 INFO http://www.business-standard.com/rss/economy-policy-102.rss ----> Completed (Found 35 news)
+2020-08-06 16:30:40,680 INFO http://www.business-standard.com/rss/news-cd-auto-15401.rss ----> Started
+2020-08-06 16:30:40,836 INFO http://www.business-standard.com/rss/news-cd-auto-15401.rss ----> Completed (Found 35 news)
+2020-08-06 16:30:42,852 INFO http://www.financialexpress.com/auto/news/feed/ ----> Started
+2020-08-06 16:30:43,835 INFO http://www.financialexpress.com/auto/news/feed/ ----> Completed (Found 100 news)
+2020-08-06 16:30:45,851 INFO http://www.financialexpress.com/auto/bike-news/feed/ ----> Started
+2020-08-06 16:30:46,132 INFO http://www.financialexpress.com/auto/bike-news/feed/ ----> Completed (Found 100 news)
+2020-08-06 16:30:48,147 INFO http://www.financialexpress.com/feed/ ----> Started
+2020-08-06 16:30:48,428 INFO http://www.financialexpress.com/feed/ ----> Completed (Found 100 news)
+2020-08-06 16:30:50,432 INFO http://www.financialexpress.com/auto/car-news/feed/ ----> Started
+2020-08-06 16:30:50,743 INFO http://www.financialexpress.com/auto/car-news/feed/ ----> Completed (Found 100 news)
+2020-08-06 16:30:52,759 INFO http://www.business-standard.com/rss-feeds/listing/ ----> Started
+2020-08-06 16:30:58,308 INFO http://www.business-standard.com/rss-feeds/listing/ ----> No news available
+2020-08-06 16:31:00,308 INFO http://www.business-standard.com/rss/finance-103.rss ----> Started
+2020-08-06 16:31:00,479 INFO http://www.business-standard.com/rss/finance-103.rss ----> Completed (Found 35 news)
+2020-08-06 16:31:02,487 INFO http://economictimes.indiatimes.com/rssfeedsdefault.cms ----> Started
+2020-08-06 16:31:02,580 INFO http://economictimes.indiatimes.com/rssfeedsdefault.cms ----> Completed (Found 85 news)
+2020-08-06 16:31:04,580 INFO http://economictimes.indiatimes.com/small-biz/rssfeeds/5575607.cms ----> Started
+2020-08-06 16:31:04,780 INFO http://economictimes.indiatimes.com/small-biz/rssfeeds/5575607.cms ----> Completed (Found 20 news)
+2020-08-06 16:31:06,787 INFO http://timesofindia.indiatimes.com/rss.cms ----> Started
+2020-08-06 16:31:07,787 INFO http://timesofindia.indiatimes.com/rss.cms ----> No news available
+2020-08-06 16:31:09,802 INFO http://www.cnbc.com/id/100003114/device/rss/rss.html ----> Started
+2020-08-06 16:31:10,614 INFO http://www.cnbc.com/id/100003114/device/rss/rss.html ----> Completed (Found 30 news)
+2020-08-06 16:31:12,630 INFO http://timesofindia.indiatimes.com/rssfeedstopstories.cms ----> Started
+2020-08-06 16:31:12,786 INFO http://timesofindia.indiatimes.com/rssfeedstopstories.cms ----> Completed (Found 19 news)
+2020-08-06 16:31:14,801 INFO http://timesofindia.indiatimes.com/rssfeeds/5880659.cms ----> Started
+2020-08-06 16:31:14,988 INFO http://timesofindia.indiatimes.com/rssfeeds/5880659.cms ----> Completed (Found 20 news)
+2020-08-06 16:31:16,988 INFO http://www.wsj.com/xml/rss/3_7455.xml ----> Started
+2020-08-06 16:31:21,547 INFO http://www.wsj.com/xml/rss/3_7455.xml ----> No news available
+2020-08-06 16:31:23,547 INFO https://thenextweb.com/feed/ ----> Started
+2020-08-06 16:31:24,016 INFO https://thenextweb.com/feed/ ----> Completed (Found 10 news)
+2020-08-06 16:31:26,031 INFO https://www.engadget.com/rss.xml ----> Started
+2020-08-06 16:31:27,036 INFO https://www.engadget.com/rss.xml ----> Completed (Found 25 news)
+2020-08-06 16:31:29,052 INFO https://gigaom.com/feed/ ----> Started
+2020-08-06 16:31:30,348 INFO https://gigaom.com/feed/ ----> Completed (Found 10 news)
+2020-08-06 16:31:32,363 INFO https://www.theverge.com/rss/index.xml ----> Started
+2020-08-06 16:31:32,520 INFO https://www.theverge.com/rss/index.xml ----> Completed (Found 10 news)
+2020-08-06 16:31:34,535 INFO http://www.telecomlead.com/category/4g-lte ----> Started
+2020-08-06 16:31:39,257 INFO http://www.telecomlead.com/category/4g-lte ----> No news available
+2020-08-06 16:31:41,273 INFO http://www.telecomlead.com/category/5g ----> Started
+2020-08-06 16:31:45,958 INFO http://www.telecomlead.com/category/5g ----> No news available
+2020-08-06 16:31:47,974 INFO http://www.telecomlead.com/category/telecom-chips ----> Started
+2020-08-06 16:31:52,332 INFO http://www.telecomlead.com/category/telecom-chips ----> No news available
+2020-08-06 16:31:54,337 INFO https://indianceo.in/feed/ ----> Started
+2020-08-06 16:32:29,391 INFO https://indianceo.in/feed/ ----> Completed (Found 10 news)
+2020-08-06 16:32:31,407 INFO http://www.newindianexpress.com/Auto/rssfeed/?id=210&getXmlFeed=true ----> Started
+2020-08-06 16:32:31,531 INFO http://www.newindianexpress.com/Auto/rssfeed/?id=210&getXmlFeed=true ----> Completed (Found 69 news)
+2020-08-06 16:32:33,547 INFO http://roboticsandautomationnews.com/feed/ ----> Started
+2020-08-06 16:32:35,234 INFO http://roboticsandautomationnews.com/feed/ ----> Completed (Found 15 news)
+2020-08-06 16:32:37,249 INFO http://techwireasia.com/feed/ ----> Started
+2020-08-06 16:32:39,186 INFO http://techwireasia.com/feed/ ----> Completed (Found 10 news)
+2020-08-06 16:32:41,201 INFO https://www.infoq.com/feed ----> Started
+2020-08-06 16:32:43,671 INFO https://www.infoq.com/feed ----> Completed (Found 15 news)
+2020-08-06 16:32:45,671 INFO http://feeds.mashable.com/Mashable ----> Started
+2020-08-06 16:32:46,123 INFO http://feeds.mashable.com/Mashable ----> Completed (Found 30 news)
+2020-08-06 16:32:48,138 INFO http://www.zdnet.com/blog/computers/rss.xml ----> Started
+2020-08-06 16:32:50,122 INFO http://www.zdnet.com/blog/computers/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:32:52,122 INFO http://www.zdnet.com/topic/samsung/rss.xml ----> Started
+2020-08-06 16:32:53,434 INFO http://www.zdnet.com/topic/samsung/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:32:55,438 INFO http://www.zdnet.com/topic/oracle/rss.xml ----> Started
+2020-08-06 16:32:56,485 INFO http://www.zdnet.com/topic/oracle/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:32:58,492 INFO http://www.zdnet.com/topic/processors/rss.xml ----> Started
+2020-08-06 16:32:59,555 INFO http://www.zdnet.com/topic/processors/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:01,570 INFO http://www.zdnet.com/topic/networking/rss.xml ----> Started
+2020-08-06 16:33:02,632 INFO http://www.zdnet.com/topic/networking/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:04,632 INFO http://www.zdnet.com/topic/laptops/rss.xml ----> Started
+2020-08-06 16:33:06,749 INFO http://www.zdnet.com/topic/laptops/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:08,751 INFO http://www.zdnet.com/topic/ibm/rss.xml ----> Started
+2020-08-06 16:33:09,797 INFO http://www.zdnet.com/topic/ibm/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:11,810 INFO http://www.zdnet.com/topic/google/rss.xml ----> Started
+2020-08-06 16:33:12,898 INFO http://www.zdnet.com/topic/google/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:14,899 INFO http://www.zdnet.com/topic/apple/rss.xml ----> Started
+2020-08-06 16:33:16,001 INFO http://www.zdnet.com/topic/apple/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:18,001 INFO http://www.zdnet.com/blog/networking/rss.xml ----> Started
+2020-08-06 16:33:19,067 INFO http://www.zdnet.com/blog/networking/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:21,068 INFO http://www.zdnet.com/blog/hardware/rss.xml ----> Started
+2020-08-06 16:33:22,593 INFO http://www.zdnet.com/blog/hardware/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:24,593 INFO http://www.zdnet.com/topic/security/rss.xml ----> Started
+2020-08-06 16:33:25,633 INFO http://www.zdnet.com/topic/security/rss.xml ----> Completed (Found 20 news)
+2020-08-06 16:33:27,634 INFO http://telecom.economictimes.indiatimes.com/rss/3g-4g ----> Started
+2020-08-06 16:33:27,760 INFO http://telecom.economictimes.indiatimes.com/rss/3g-4g ----> Completed (Found 20 news)
+2020-08-06 16:33:29,761 INFO http://telecom.economictimes.indiatimes.com/rss/recentstories ----> Started
+2020-08-06 16:33:30,403 INFO http://telecom.economictimes.indiatimes.com/rss/recentstories ----> Completed (Found 20 news)
+2020-08-06 16:33:32,406 INFO http://telecom.economictimes.indiatimes.com/rss/industry ----> Started
+2020-08-06 16:33:32,561 INFO http://telecom.economictimes.indiatimes.com/rss/industry ----> Completed (Found 20 news)
+2020-08-06 16:33:34,561 INFO http://telecom.economictimes.indiatimes.com/rss/infrastructure/telecom-equipment ----> Started
+2020-08-06 16:33:34,680 INFO http://telecom.economictimes.indiatimes.com/rss/infrastructure/telecom-equipment ----> Completed (Found 20 news)
+2020-08-06 16:33:36,683 INFO http://www.acnnewswire.com/rss/lang/english.xml ----> Started
+2020-08-06 16:33:37,043 INFO http://www.acnnewswire.com/rss/lang/english.xml ----> Completed (Found 10 news)
+2020-08-06 16:33:39,049 INFO http://tech.economictimes.indiatimes.com/rss/technology ----> Started
+2020-08-06 16:33:39,189 INFO http://tech.economictimes.indiatimes.com/rss/technology ----> Completed (Found 20 news)
+2020-08-06 16:33:41,204 INFO http://www.financialexpress.com/industry/feed/ ----> Started
+2020-08-06 16:33:41,470 INFO http://www.financialexpress.com/industry/feed/ ----> Completed (Found 100 news)
+2020-08-06 16:33:43,485 INFO http://businesswireindia.com/RSSFeeds/Full-subject-technology-news.xml ----> Started
+2020-08-06 16:33:45,764 INFO http://businesswireindia.com/RSSFeeds/Full-subject-technology-news.xml ----> Completed (Found 10 news)
+2020-08-06 16:33:47,779 INFO http://businesswireindia.com/RSSFeeds/Full-subject-mergers-acquisitions.xml ----> Started
+2020-08-06 16:33:49,594 INFO http://businesswireindia.com/RSSFeeds/Full-subject-mergers-acquisitions.xml ----> Completed (Found 1 news)
+2020-08-06 16:33:51,603 INFO http://bwdisrupt.businessworld.in/rss/all-article.xml ----> Started
+2020-08-06 16:33:57,409 INFO http://bwdisrupt.businessworld.in/rss/all-article.xml ----> Completed (Found 9713 news)
+2020-08-06 16:33:59,425 INFO http://bwdisrupt.businessworld.in/rss/web-exclusive-articles.xml ----> Started
+2020-08-06 16:34:00,112 INFO http://bwdisrupt.businessworld.in/rss/web-exclusive-articles.xml ----> Completed (Found 10 news)
+2020-08-06 16:34:02,122 INFO http://bwdisrupt.businessworld.in/rss/important-articles.xml ----> Started
+2020-08-06 16:34:02,403 INFO http://bwdisrupt.businessworld.in/rss/important-articles.xml ----> Completed (Found 6 news)
+2020-08-06 16:34:04,418 INFO http://bwdisrupt.businessworld.in/rss/featured-article.xml ----> Started
+2020-08-06 16:34:04,684 INFO http://bwdisrupt.businessworld.in/rss/featured-article.xml ----> Completed (Found 6 news)
+2020-08-06 16:34:06,699 INFO http://bwdisrupt.businessworld.in/rss/news-article.xml ----> Started
+2020-08-06 16:34:07,105 INFO http://bwdisrupt.businessworld.in/rss/news-article.xml ----> Completed (Found 10 news)
+2020-08-06 16:34:09,105 INFO http://indianexpress.com/photo-story-section/technology/feed/ ----> Started
+2020-08-06 16:34:09,417 INFO http://indianexpress.com/photo-story-section/technology/feed/ ----> Completed (Found 16 news)
+2020-08-06 16:34:11,432 INFO http://timesofindia.indiatimes.com/rssfeedsvideo/3813454.cms ----> Started
+2020-08-06 16:34:11,697 INFO http://timesofindia.indiatimes.com/rssfeedsvideo/3813454.cms ----> Completed (Found 40 news)
+2020-08-06 16:34:13,713 INFO http://www.networkworld.com/category/internet-of-things/index.rss ----> Started
+2020-08-06 16:34:14,416 INFO http://www.networkworld.com/category/internet-of-things/index.rss ----> Completed (Found 21 news)
+2020-08-06 16:34:16,416 INFO https://internetofbusiness.com/ ----> Started
+2020-08-06 16:34:19,425 INFO https://internetofbusiness.com/ ----> No news available
+2020-08-06 16:34:21,440 INFO https://staceyoniot.com/feed/ ----> Started
+2020-08-06 16:34:23,221 INFO https://staceyoniot.com/feed/ ----> Completed (Found 10 news)
+2020-08-06 16:34:25,236 INFO https://iotbusinessnews.com/feed/ ----> Started
+2020-08-06 16:34:26,329 INFO https://iotbusinessnews.com/feed/ ----> Completed (Found 25 news)
+2020-08-06 16:34:28,329 INFO https://futurism.com/feed/ ----> Started
+2020-08-06 16:34:30,610 INFO https://futurism.com/feed/ ----> Completed (Found 20 news)
+2020-08-06 16:34:32,625 INFO https://globenewswire.com/RssFeed ----> Started
+2020-08-06 16:34:34,623 INFO https://globenewswire.com/RssFeed ----> Completed (Found 20 news)
+2020-08-06 16:34:34,795 INFO File has been successfully Saved
